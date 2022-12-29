@@ -1,6 +1,6 @@
 ### Welcome to Gome Bio ✨!
 
-Teaching the immune system to fight disease 
+Together teaching the immune system to fight disease 
 
 # Description
 Gome Bio, a science-driven biotechnology firm advances first-in-class therapeutics and develops state-of-the-art technologies in order to treat serious life-threatening diseases and disabilities such as respiratory cancers (NSCLC, SCLC), lower respiratory infections (LRI), neurological conditions, HIV/AIDS, and preterm birth complications. 
